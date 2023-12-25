@@ -24,7 +24,7 @@ Currency Finder covers a wide range of currencies, from major ones like USD, EUR
 
 ## Getting Started
 
-To use Currency Finder, simply visit our website [www.currencyfinder.com](https://www.currencyfinder.com) and start exploring the latest exchange rates. The homepage provides an overview of major currency pairs, and you can use the navigation menu to access additional features such as the currency converter and historical data.
+To use Currency Finder, simply visit our website [https://currency-finder.vercel.app/](https://currency-finder.vercel.app/) and start exploring the latest exchange rates. The homepage provides an overview of major currency pairs, and you can use the navigation menu to access additional features such as the currency converter and historical data.
 
 ## Installation
 
