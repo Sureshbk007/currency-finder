@@ -16,8 +16,8 @@ function App() {
     setFrom(to);
   }
   return (
-    <div className="w-screen h-screen bg-currencyBg flex justify-center items-center">
-      <div className="border border-white p-6 backdrop-blur-sm rounded-md ">
+    <div className="w-screen h-screen bg-currencyBg flex justify-center items-center flex-wrap  ">
+      <div className="md:border border-white p-6 backdrop-blur-sm rounded-md ">
         <InputBox
           label="From"
           amount={amount}

@@ -14,7 +14,7 @@ function InputBox({
   const inputId = useId();
   return (
     <div
-      className={`text-white flex gap-10 mb-3 bg-zinc-100 rounded-md p-5 font-bold text-lg ${className}`}
+      className={`text-white flex flex-wrap gap-10 mb-3 bg-zinc-100 rounded-md p-5 font-bold text-lg ${className}`}
     >
       <div className="flex-1">
         <div className="flex flex-col gap-2">
